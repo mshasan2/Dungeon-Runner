@@ -1,0 +1,220 @@
+java -jar Dungeon.jar 3 3 0 false 0 1
+
+Welcome to the Dungeon
+
+You are in a Cave
+
+No treasures are present in this cave
+The possible directions the player can currently move are :
+South/Down
+Do you want to shoot an Arrow? Yes or No 
+No
+
+
+Enter direction to move : Down
+
+Reached State is: (1 , 0)
+You are in a Cave
+
+No treasures are present in this cave
+The possible directions the player can currently move are :
+South/Down
+Do you want to shoot an Arrow? Yes or No no
+
+
+Enter direction to move : up
+
+Invalid Input Direction
+The possible directions the player can currently move are :
+South/Down
+Enter direction to move : up
+
+Invalid Input Direction
+The possible directions the player can currently move are :
+South/Down
+Enter direction to move : Down
+
+Reached State is: (2 , 0)
+You are in a Cave
+
+No treasures are present in this cave
+The possible directions the player can currently move are :
+North/Up
+Do you want to shoot an Arrow? Yes or No No
+
+
+Enter direction to move : Up
+
+Reached State is: (1 , 0)
+You are in a Cave
+
+No treasures are present in this cave
+The possible directions the player can currently move are :
+North/Up
+East/Right
+South/Down
+Do you want to shoot an Arrow? Yes or No No
+
+
+Enter direction to move : Right
+
+Reached State is: (1 , 1)
+You are in a Cave
+
+No treasures are present in this cave
+The possible directions the player can currently move are :
+North/Up
+South/Down
+West/Left
+Do you want to shoot an Arrow? Yes or No No
+
+
+Enter direction to move : Left
+
+Reached State is: (1 , 0)
+You are in a Cave
+
+No treasures are present in this cave
+The possible directions the player can currently move are :
+North/Up
+East/Right
+South/Down
+Do you want to shoot an Arrow? Yes or No No
+
+
+Enter direction to move : Up
+
+Reached State is: (0 , 0)
+You are in a Cave
+
+No treasures are present in this cave
+The possible directions the player can currently move are :
+South/Down
+Do you want to shoot an Arrow? Yes or No No
+
+
+Enter direction to move : Down
+
+Reached State is: (1 , 0)
+You are in a Cave
+
+No treasures are present in this cave
+The possible directions the player can currently move are :
+North/Up
+East/Right
+South/Down
+Do you want to shoot an Arrow? Yes or No No
+
+
+Enter direction to move : Down
+
+Reached State is: (2 , 0)
+You are in a Cave
+
+No treasures are present in this cave
+The possible directions the player can currently move are :
+North/Up
+Do you want to shoot an Arrow? Yes or No No
+
+
+Enter direction to move : Up
+
+Reached State is: (1 , 0)
+You are in a Cave
+
+No treasures are present in this cave
+The possible directions the player can currently move are :
+North/Up
+East/Right
+South/Down
+Do you want to shoot an Arrow? Yes or No No
+
+
+Enter direction to move : Right
+
+Reached State is: (1 , 1)
+You are in a Cave
+
+No treasures are present in this cave
+The possible directions the player can currently move are :
+North/Up
+South/Down
+West/Left
+Do you want to shoot an Arrow? Yes or No No
+
+
+Enter direction to move : Down
+
+Reached State is: (2 , 1)
+You are in a Cave
+
+No treasures are present in this cave
+The possible directions the player can currently move are :
+North/Up
+Do you want to shoot an Arrow? Yes or No No
+
+
+Enter direction to move : Up
+
+Reached State is: (1 , 1)
+You are in a Cave
+
+No treasures are present in this cave
+The possible directions the player can currently move are :
+North/Up
+South/Down
+West/Left
+Do you want to shoot an Arrow? Yes or No No
+
+
+Enter direction to move : Up
+
+Reached State is: (0 , 1)
+You are in a Tunnel
+
+The possible directions the player can currently move are :
+South/Down
+East/Right
+Do you want to shoot an Arrow? Yes or No No
+
+
+Enter direction to move : Right
+
+Reached State is: (0 , 2)
+You are in a Tunnel
+
+A Weak Pungent Smell Detected from this location
+
+The possible directions the player can currently move are :
+West/Left
+South/Down
+Do you want to shoot an Arrow? Yes or No Yes
+Enter the direction to shoot the arrow Down
+Enter the distance to shoot the arrow 2
+
+Arrow did not hit anything
+Do you want to shoot an Arrow? Yes or No No
+
+
+Enter direction to move : Down
+
+Reached State is: (1 , 2)
+You are in a Tunnel
+
+A Strong Pungent Smell Detected from this location
+
+The possible directions the player can currently move are :
+South/Down
+North/Up
+Do you want to shoot an Arrow? Yes or No 1
+
+Invalid Input
+Do you want to shoot an Arrow? Yes or No No
+
+
+Enter direction to move : Down
+
+Reached State is: (2 , 2)
+You are Dead. The Monster ate you
+Player has been killed
+ End of Game Reached

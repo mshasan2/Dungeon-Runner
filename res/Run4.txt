@@ -1,0 +1,88 @@
+java -jar Dungeon.jar 4 4 1 false 10 100
+
+Welcome to the Dungeon
+
+You are in a Cave
+
+A Strong Pungent Smell Detected from this location
+
+No treasures are present in this cave
+The possible directions the player can currently move are :
+South/Down
+West/Left
+North/Up
+Do you want to shoot an Arrow? Yes or No Yes
+Enter the direction to shoot the arrow Down
+Enter the distance to shoot the arrow 1
+
+We hear a continuous roar from a Cave
+Do you want to shoot an Arrow? Yes or No No
+
+
+Enter direction to move : Down
+
+Reached State is: (3 , 1)
+You are in a Cave
+
+You are lucky, as the Otyugh was injured it didn't notice you
+A Strong Pungent Smell Detected from this location
+
+No treasures are present in this cave
+The possible directions the player can currently move are :
+North/Up
+West/Left
+Do you want to shoot an Arrow? Yes or No Yes
+Enter the direction to shoot the arrow Left
+Enter the distance to shoot the arrow 1
+
+We hear a continuous roar from a Cave
+Do you want to shoot an Arrow? Yes or No Yes
+Enter the direction to shoot the arrow Left
+Enter the distance to shoot the arrow 1
+
+We hear a loud roar from a Cave which stops after a minute
+
+Enter direction to move : Left
+
+Reached State is: (3 , 0)
+You are in a Cave
+
+A Strong Pungent Smell Detected from this location
+
+No treasures are present in this cave
+The possible directions the player can currently move are :
+North/Up
+East/Right
+
+Enter direction to move : Up
+
+Reached State is: (2 , 0)
+You are in a Tunnel
+
+A Strong Pungent Smell Detected from this location
+
+The possible directions the player can currently move are :
+East/Right
+South/Down
+
+Enter direction to move : Right
+
+Reached State is: (2 , 1)
+You are in a Cave
+
+A Strong Pungent Smell Detected from this location
+
+No treasures are present in this cave
+The possible directions the player can currently move are :
+South/Down
+West/Left
+North/Up
+
+Enter direction to move : Up
+
+Reached State is: (1 , 1)
+You are in a Cave
+
+You are Dead. The Monster ate you
+Player has been killed
+ End of Game Reached
